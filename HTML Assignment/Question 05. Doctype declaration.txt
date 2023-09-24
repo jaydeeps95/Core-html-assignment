@@ -1,0 +1,4 @@
+    Question 05. Doctype declaration?
+
+    Ans – <!DOCTYPE html> this is the doctype declaration in html.
+	It is used to inform the browser to what document type being rendered in HTML document.

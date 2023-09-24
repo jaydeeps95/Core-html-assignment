@@ -1,0 +1,10 @@
+    Question no. 4 – tag and element?
+
+    Ans – HTML tags : HTML tags are usually consists an starting tag and closing tag but some time it may be not have closing tag.
+
+    Ex - <h1></h1>, <p></p>, <hr>,  <br>.
+
+
+    HTML Elements : HTML elements are having starting tag, closing tag and content. Some time it not have content it is called empty HTML element.
+
+    Ex. - <h1>This is heading</h1>, <p>this is paragraph</p>, <p></p>.
